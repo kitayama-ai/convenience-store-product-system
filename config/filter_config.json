@@ -1,0 +1,7 @@
+{
+  "protein_min": 20,
+  "fat_max": 10,
+  "unit": "g",
+  "description": "高タンパク低脂質商品の判定基準"
+}
+
